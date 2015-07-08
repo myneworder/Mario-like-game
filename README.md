@@ -1,6 +1,6 @@
 #Description
 
-![alt tag](https://raw.githubusercontent.com/nirchernia/mario/master/screenie.png)
+![alt tag](https://raw.githubusercontent.com/nirchernia/Mario-like-game/master/game.png)
 
 A 5 level Mario-style game where you collect all the coins to advance to the next level
 
