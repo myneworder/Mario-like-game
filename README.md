@@ -1,14 +1,12 @@
+#Description
 
-
+![alt tag](https://raw.githubusercontent.com/nirchernia/mario/master/screenie.png)
 
 A 5 level Mario-style game where you collect all the coins to advance to the next level
 
-
-
-
 You can play here: http://nirsgame.herokuapp.com/
 
-Controls:
+#Controls:
 
 Up: :arrow_up:
 
